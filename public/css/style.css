@@ -1,0 +1,358 @@
+.header-style{
+    border-bottom: 0.1px solid lightgray;
+	height: 40px;
+    padding: 7px;
+    width: 100%;
+    background: white;
+    z-index: 5;
+    font-weight: 600;
+}
+i.fa.fa-google-plus-square.google {
+    color: rgb(220, 15, 99);
+    margin-top: -8px;
+}
+.df{
+}
+a{
+    color: none;
+}
+button.header-button {
+    border: 0px;
+    outline: none;
+    background: white;
+    padding-right: 30px;
+    float: right;
+}
+.newmodal-dialog {
+    width: 400px;
+    margin: 30px auto;
+}
+.newmodal-dialog-1 {
+    width: 400px;
+    margin: 30px auto;
+}
+.log-btn{
+	outline: none;
+    margin-top: 1%;
+    width: 91px;
+    background: rgb(220, 15, 99);
+    border: 0px;
+    color: white;
+    font-weight: 900;
+    height: 36px;
+}
+.newmodal-content {
+    position: relative;
+    background-color: #fff;
+    /* border: 1px solid #999; */
+    border: 1px solid rgba(0,0,0,0.1);
+    margin-top: 36px;
+    margin-bottom: 30px;
+    box-shadow: 0 0px 1px rgba(0,0,0,.2);
+    outline: 0;
+    height: 450px;
+}
+
+button.google-button {
+    border: 0;
+    background: white;
+    color: #dc0f63;
+    position: absolute;
+    margin-top: -26px;
+}
+
+.spacer-5 {
+    margin-left: 5px;
+}
+.fa-cloud-upload:before {
+    margin-right: 6px;
+    content: "\f0ee";
+}
+.title-size{
+    font-weight: 900;
+    color: darkslategrey;
+    font-size: 25px;
+}
+textarea.myinput::placeholder {
+    color: darkgrey;
+    font-size: 16px;
+    font-weight: 500;
+}
+.container-fluid.header-2 {
+    padding: 12px;
+    text-align: center;
+    color: dimgray;
+    font-weight: 900;
+    font-size: 44px;
+    position: relative;
+    z-index: 10;
+    letter-spacing: 18px;
+    border-bottom: 0.1px solid lightgrey;
+}
+.header-3{
+    z-index: 10;
+}
+.col-sm-2.n-category {
+    background: #dc0f63;
+    height: 46px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    border: none;
+    cursor: pointer;
+}
+.col-sm-2.n1-category {
+    background: #dc0f63;
+    height: 46px;
+    font-size: 20px;
+    color: white;
+    padding-top: 6px;
+    border: none;
+}
+.col-sm-2.category {
+    background: #dc0f63;
+    height: 46px;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 6px;
+    border: none;
+    cursor: pointer;
+}
+img#uploadedimage {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+}
+.modal-body{
+    height: auto;
+    background: white;
+}
+textarea.myinput {
+    border: 2px solid darkgray;
+    height: 87px;
+    width: 100%;
+}
+.amit-container{
+    width: 100%;
+}
+.col-sm-2.category:hover {
+    background: #e2387e;
+}
+.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+    content: "\f0c9";
+    display: none;
+}
+button.menu-button {
+    background: #dc0f63;
+    float: right;
+    border: 0px;
+    margin-left: 3px;
+}
+.col-sm-1.n1-category.block-1,.block-7 {
+    background: #dc0f63;
+    height: 46px;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    padding-top: 6px;
+    border: none;
+}
+.container-fluid.upload-dialog-1 {
+    width: 400px;
+    margin: 30px auto;
+}
+.upload-content {
+    text-align: center;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #999;
+    box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    outline: 0;
+}   
+input.radio-btn {
+    margin-left: 29px;
+}
+.u-hider{
+    display: none;
+}
+.nu-hider{
+    display: block;
+}
+.inputfile + label {
+    padding: 10px 90px;
+    border: 1px solid darkgrey;
+    color: #656363;
+    width: 100%;
+}
+img#uploadedimage {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+}
+.preview-box {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    border: 1px solid darkgrey;
+}
+.p-text {
+    position: absolute;
+    margin-top: -60px;
+    padding-left: 108px;
+}
+input[type=file] {
+    display: block;
+    margin-top: -24px;
+    border: 1px solid darkgray;
+}
+input.myinput {
+    width: 100%;
+}
+.form-layout{
+    font-weight: 800;
+    color: #6d6c6c;
+}
+input[type=file] {
+    display: block;
+    visibility: hidden;
+}
+.newmodal-content{
+    font-weight: 800;
+    color: #6d6c6c;
+}
+.paragraph{
+    font-weight: 500;
+}
+@media screen and (max-width: 765px){
+.block-2,.block-3,.block-4,.block-5,.block-6,.block-7{
+    display: none;
+}
+.u-hider {
+    padding: 6px;
+    font-size: 14px;
+    display: block;
+    cursor: pointer;
+}
+}
+@media screen and (max-width: 240px){
+.container-fluid.header-2 {
+    font-size: 16px;
+}
+button.header-button {
+    padding-right: 5px;
+    font-size: 10px;
+}
+.col-sm-7.outer-box {
+    width: 157%;
+    /* padding: 0px 0% 10% 0%; */
+     margin-left: 0px; 
+}
+}
+@media screen and (max-width: 480px){
+button.header-button {
+    background: white;
+    padding-right: 11px;
+}
+.newmodal-dialog {
+    width: 100%;
+}
+.container-fluid.header-2
+{
+    font-size: 30px;
+}
+.title-size {
+    font-weight: 700;
+    text-align: center;
+    color: darkslategrey;
+    font-size: 20px;
+}
+input[type=file] {
+    display: block;
+    margin-top: -24px;
+    border: 1px solid darkgray;
+}
+.inputfile + label {
+    padding: 10px 90px;
+    border: 1px solid darkgrey;
+    color: #656363;
+    width: 100%;
+}
+.p-text{
+    position: absolute;
+    margin-top: -60px;
+    padding-left: 108px;
+}
+.preview-box{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    border: 1px solid darkgrey;
+}
+.nu-hider{
+    display: none;
+}
+.u-hider{
+    padding: 6px;
+    font-size: 14px;
+    display: block;
+    cursor: pointer;
+}
+.newmodal-dialog-1 {
+    width: 100%;
+}
+.newmodal-content{
+    margin-top: 0px;
+    font-weight: 800;
+    color: #6d6c6c;
+}
+.block-2,.block-3,.block-4,.block-5,.block-6,.block-7{
+    display: none;
+}
+.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+    content: "\f0c9";
+    display: block;
+}
+.div-hider{
+    display: none;
+}
+
+}
+
+/*Footer css*/
+.container-fluid.footer {
+    background: #ffffff;
+    color: #dc0f63;;
+    font-size: 20px;
+    position: fixed;
+    height: 30px;
+    width: 100%;
+    padding: 0px 10px;
+    bottom: 0;
+    letter-spacing: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 2px black;
+    z-index: 10;
+}
+
+/*Profile css*/
+.acc_set {
+    margin-top: 15px;
+}
+.e_btn{
+    border: 0;
+    height: 28px;
+    background: #dc0f63;
+    color: white;
+}
+button.save-btn {
+    border: 0;
+    background: #dc0f63;
+    color: white;
+    height: 37px;
+    width: 116px;
+}
