@@ -49,14 +49,14 @@ a{
 <div class="col-sm-1 div-hider" style="float: right;"></div>
 <div class="col-sm-7 outer-box">
 	<div class="by-name">by Amit</div>
-	<div class="col-sm-12 inner-box"><img class="post-img" src="http://localhost:8000/img/quote1.jpg">
+	<div class="col-sm-12 inner-box"><img class="post-img" src="/img/quote1.jpg">
 	</div>
 	<div class="col-sm-12 icon-contain">
-		<div class="like"><img src="http://localhost:8000/img/1.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/2.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/3.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/4.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/5.png"></div>
+		<div class="like"><img src="/img/1.png"></div>
+		<div class="like"><img src="/img/2.png"></div>
+		<div class="like"><img src="/img/3.png"></div>
+		<div class="like"><img src="/img/4.png"></div>
+		<div class="like"><img src="/img/5.png"></div>
 		<div class="points">0 Points</div>
 		<a href="#"><div class="share-box share-1"><i class="fa fa-facebook" title="share to facebook" aria-hidden="true"></i></div></a>
 		<a href="#"><div class="share-box share-2"><i class="fa fa-google-plus google" title="share to google plus" aria-hidden="true"></i></div></a>
@@ -65,13 +65,13 @@ a{
 
 <div class="col-sm-7 outer-box">
 	<div class="by-name">by Amit</div>
-	<div class="col-sm-12 inner-box"><img class="post-img" src="http://localhost:8000/img/ava.png"></div>
+	<div class="col-sm-12 inner-box"><img class="post-img" src="/img/ava.png"></div>
 	<div class="col-sm-12 icon-contain">
-		<div class="like"><img src="http://localhost:8000/img/1.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/2.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/3.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/4.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/5.png"></div>
+		<div class="like"><img src="/img/1.png"></div>
+		<div class="like"><img src="/img/2.png"></div>
+		<div class="like"><img src="/img/3.png"></div>
+		<div class="like"><img src="/img/4.png"></div>
+		<div class="like"><img src="/img/5.png"></div>
 		<div class="points">0 Points</div>
 		<div class="share-box share-1"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 		<div class="share-box share-2"><i class="fa fa-google-plus google" aria-hidden="true"></i></div>
@@ -79,13 +79,13 @@ a{
 </div>
 <div class="col-sm-7 outer-box">
 	<div class="by-name">by Amit</div>
-	<div class="col-sm-12 inner-box"><img class="post-img" src="http://localhost:8000/img/quote1.jpg"></div>
+	<div class="col-sm-12 inner-box"><img class="post-img" src="/img/quote1.jpg"></div>
 	<div class="col-sm-12 icon-contain">
-		<div class="like"><img src="http://localhost:8000/img/1.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/2.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/3.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/4.png"></div>
-		<div class="like"><img src="http://localhost:8000/img/5.png"></div>
+		<div class="like"><img src="/img/1.png"></div>
+		<div class="like"><img src="/img/2.png"></div>
+		<div class="like"><img src="/img/3.png"></div>
+		<div class="like"><img src="/img/4.png"></div>
+		<div class="like"><img src="/img/5.png"></div>
 		<div class="points">0 Points</div>
 		<div class="share-box share-1"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 		<div class="share-box share-2"><i class="fa fa-google-plus google" aria-hidden="true"></i></div>
