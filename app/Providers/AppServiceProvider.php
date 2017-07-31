@@ -15,8 +15,8 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
 
-        //Added by farhan
-        URL::forceScheme('https'); 
+        //Added by farhan for working on localost remove this line
+        //URL::forceScheme('https'); 
         //
     }
 
